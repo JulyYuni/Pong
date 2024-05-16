@@ -42,8 +42,6 @@ Tela do Jogo
 - Para iniciar o movimento da bola aperte o botão space no teclado.
 - Para fechar o jogo aperte o botão ESC no teclado.
 
-![alt text](executando-o-jogo.png)
-
 Considerações finais:
 
 Esse código foi rodado no Windows e no Linux. Não sei como se comporta em MacOs.
