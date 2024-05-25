@@ -32,7 +32,7 @@ O programa possui interface gráfica.
 - Instalar o Pygame.
 - Usar uma IDE que reconheça o Pygame ou rodar pelo terminal, contanto que o Pygame esteja instalado na máquina.
 - O arquivo que você deve usar para rodar o jogo é o Pong.py.
-- Ao executar o código será necessário digitar o nome da(o) jogadora(o) 1 e da(o) jogadora(o) 2 no terminal da IDE.
+- Ao executar o código será necessário digitar o nome da(o) jogadora(o).
 - Obs: O repositório não possui um arquivo executável. Para abrir o jogo é necessário rodá-lo em uma IDE que reconheça a linguagem python e reconheça o pygame, da forma explicada acima.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
