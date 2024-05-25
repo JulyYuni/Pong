@@ -84,7 +84,6 @@ def menu(cont):
             botao_play.draw()
             botao_play.set_position((janela.width - botao_play.width)/2, (janela.height - botao_play.height)/2)
 
-    
     return cont
 
                 
