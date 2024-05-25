@@ -40,6 +40,8 @@ O programa possui interface gráfica.
 Tela do Jogo
 
 - Para iniciar o movimento da bola aperte o botão space no teclado.
+- Para movimentar o pad da esquerda aperte "w" ou "s" no teclado para movimentar para cima e para baixo, respectivamente.
+- Para movimentar o pad da direita aperte a seta para cima ou a seta para baixo no teclado para movimentar para cima e para baixo, respectivamente.
 - Para fechar o jogo aperte o botão ESC no teclado.
 
 Considerações finais:
