@@ -30,10 +30,10 @@ O programa possui interface gráfica.
 - Baixar os arquivos do repositório corretamente.
 - Mantê-los nas pastas do mesmo jeito que eles estão organizados no repositório
 - Instalar o Pygame.
-- Usar uma Ide que reconheça o Pygame ou rodar pelo terminal, contanto que o Pygame esteja instalado na máquina.
+- Usar uma IDE que reconheça o Pygame ou rodar pelo terminal, contanto que o Pygame esteja instalado na máquina.
 - O arquivo que você deve usar para rodar o jogo é o Pong.py.
-- Executar o código ira diretamente abrir o jogo (não será necessário inserir nada no terminal durante a execução).
-- Obs: O repositório não possui um arquivo executável. Para abrir o jogo é necessário rodá-lo em uma Ide que reconheça a linguagem python e reconheça o pygame, da forma explicada acima.
+- Ao executar o código será necessário digitar o nome da(o) jogadora(o) 1 e da(o) jogadora(o) 2 no terminal da IDE.
+- Obs: O repositório não possui um arquivo executável. Para abrir o jogo é necessário rodá-lo em uma IDE que reconheça a linguagem python e reconheça o pygame, da forma explicada acima.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,7 +41,6 @@ Tela do Jogo
 
 - Para iniciar o movimento da bola aperte o botão space no teclado.
 - Para movimentar o pad da esquerda aperte 'w' ou 's' no teclado para movimentar para cima e para baixo, respectivamente.
-- Para movimentar o pad da direita aperte a seta para cima ou a seta para baixo no teclado para movimentar para cima e para baixo, respectivamente.
 - Para reiniciar uma partida aperte 'r' no teclado.
 - Para fechar o jogo aperte o botão ESC no teclado.
 
