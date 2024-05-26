@@ -43,6 +43,7 @@ Tela do Jogo
 - Para movimentar o pad da esquerda aperte 'w' ou 's' no teclado para movimentar para cima e para baixo, respectivamente.
 - Para reiniciar uma partida aperte 'r' no teclado.
 - Para fechar o jogo aperte o botão ESC no teclado.
+- Na pasta Imagens tem prints da tela do jogo rodando corretamente.
 
 Considerações finais:
 
